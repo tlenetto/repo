@@ -5,3 +5,4 @@ x = input('Enter Number = ');
 for i = 1:x
   fprintf('i = %d\n',i);
 end
+x = 1:1:100;
